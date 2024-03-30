@@ -17,7 +17,7 @@ git clone https://github.com/suryapratap344/mistral-chat-app.git
 2. Navigate to the project directory:
 
 ```bash
-cd mistral-chat-app
+cd Mistral_Chat_App
 ```
 
 3. Set up your environment variables:
