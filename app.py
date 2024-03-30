@@ -16,7 +16,7 @@ def main():
   add_message("Mistral", "Hi there! How can I assist you today?", is_user=False)
 
   # Input box for Hugging Face API key (Optional)
-  hugging_face_api_key = st.text_input("Enter Hugging Face API Key (Optional)")
+  hugging_face_api_key = st.text_input("Enter Hugging Face API Key")
 
   # Sidebar for model selection
   with st.sidebar:
